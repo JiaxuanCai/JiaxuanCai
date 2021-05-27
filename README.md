@@ -12,9 +12,6 @@
 
 🏝 Fun fact: I'm a fan of travelling, detective fictions and basketball.  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiaxuanCai)](https://github.com/anuraghazra/github-readme-stats)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiaxuanCai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
