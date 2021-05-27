@@ -10,4 +10,9 @@
 
 📫 Reach me at [choigaahin@gmail.com](choigaahin@gmail.com) if you'd like to collaborate with me in my research or coding work.  
 
-🏝 Fun fact: I'm a fan of travelling, detective fictions and basketball.
+🏝 Fun fact: I'm a fan of travelling, detective fictions and basketball.  
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiaxuanCai)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
