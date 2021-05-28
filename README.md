@@ -8,7 +8,7 @@
 
 💡 My specific research interest is in Computational Biology, Deep Learning and Coding Theory.  
 
-📫 Reach me at [choigaahin@gmail.com](choigaahin@gmail.com) if you'd like to collaborate with me in my research or coding work.  
+📫 Reach me at <choigaahin@gmail.com> if you'd like to collaborate with me in my research or coding work.  
 
 🏝 Fun fact: I'm a fan of travelling, detective fictions and basketball.  
 
