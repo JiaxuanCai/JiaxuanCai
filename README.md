@@ -10,7 +10,7 @@
 
 📫 Reach me at <choigaahin@gmail.com> if you'd like to collaborate with me in my research or coding work.  
 
-🏝 Fun fact: I'm a fan of travelling, detective fictions and basketball.  
+🏝 Fun fact: I'm a fan of cooking, travelling, detective fictions, guitar and basketball.  
 
 
 
