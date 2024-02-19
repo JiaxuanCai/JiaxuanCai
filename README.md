@@ -12,8 +12,3 @@
 
 🏝 Fun fact: I'm a fan of cooking, travelling, detective fictions, guitar and basketball.  
 
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiaxuanCai)](https://github.com/anuraghazra/github-readme-stats)
-
