@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-🤓 I'm Chase/Jiaxuan Cai, an enthusiast in Computer Science and Technology. Nice to meet you on GitHub, let's enjoy coding and have fun here!  
+🤓 I'm Jiaxuan (Joshua) Cai, a passionate Computer Engineering enthusiast. It's great to connect on GitHub—let's enjoy coding and simply have fun!
 
-📚 I’m currently studying at College of Computer Science, Chongqing University 🇨🇳.  
+📚 I'm a PhD candidate in Computer Engineering at The Ohio State University, with a B.E. (Honors) in Computer Science and Technology from Chongqing University.
 
-🔭 I’m planning to apply for a PhD or MS program in CS or EE to continue my research.  
+💡 My major areas of focus include Hardware Accelerator, Embedded Systems, and Cryptography.
 
-💡 My specific research interest is in Computer Architecture, Deep Learning and Coding Theory.  
+👨‍💻 I've gained valuable experience through internships as Embedded Software Engineer, Full-Stack Software Engineer, and Software Engineer (Infra).
 
-📫 Reach me at <choigaahin@gmail.com> if you'd like to collaborate with me in my research or coding work.  
+📫 Feel free to reach out at <choigaahin@gmail.com> if you're interested in collaborating on research or coding projects.
 
-🏝 Fun fact: I'm a fan of cooking, travelling, detective fictions, guitar and basketball.  
-
+🏝 Fun fact: I’m a fan of cooking, traveling, detective fiction, playing guitar, and basketball.
